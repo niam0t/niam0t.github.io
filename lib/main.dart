@@ -120,7 +120,7 @@ class MainPage extends StatelessWidget {
 
               _sectionTitle(context, "Links"),
               SizedBox(height: 4),
-              Text("Add your Linkedin, Github links"),
+              Text("Some links"),
               SizedBox(height: 24),
             ],
           ),
